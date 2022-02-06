@@ -1,0 +1,96 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1642945150533,112,Product Page HTTP Request_Kazak1,200,OK,n11 1-1,text,true,,85699,382,1,1,https://urun.n11.com/kadin-kazak/lela-dik-yaka-triko-bayan-kazak-4615012-P462466848,82,0,61
+1642945150649,192,Add Kazak1 Product To Cart,200,"Number of samples in transaction : 4, number of failing samples : 0",n11 1-1,,true,,4735,2730,1,1,null,0,0,0
+1642945150649,24,https://urun.n11.com/hesabim/hesap-bilgileri,200,,n11 1-1,text,true,,1149,409,1,1,https://urun.n11.com/hesabim/hesap-bilgileri,24,0,0
+1642945150674,72,https://urun.n11.com/component/render/customizedProductPriceWrapperArea,200,,n11 1-1,text,true,,1821,656,1,1,https://urun.n11.com/component/render/customizedProductPriceWrapperArea?productId=462466848&hasBundleBadge=false,72,0,0
+1642945150747,22,https://urun.n11.com/cart/generateAnonymousShoppingCartCookie,200,,n11 1-1,,true,,779,629,1,1,https://urun.n11.com/cart/generateAnonymousShoppingCartCookie,22,0,0
+1642945150771,70,htttps://urun.n11.com/sepet/ekle,200,,n11 1-1,text,true,,986,1036,1,1,https://urun.n11.com/sepet/ekle,70,0,0
+1642945151148,45,Product Page HTTP Request_Kazak2,200,OK,n11 1-1,text,true,,85631,656,1,1,https://urun.n11.com/kadin-kazak/lela-bayan-kazak-4615060-P462567369,21,0,0
+1642945151195,181,Add Kazak2 Product To Cart,200,"Number of samples in transaction : 4, number of failing samples : 0",n11 1-1,,true,,4191,3364,1,1,null,0,0,0
+1642945151195,25,https://urun.n11.com/hesabim/hesap-bilgileri,200,,n11 1-1,text,true,,941,698,1,1,https://urun.n11.com/hesabim/hesap-bilgileri,25,0,0
+1642945151220,72,https://urun.n11.com/component/render/customizedProductPriceWrapperArea,200,,n11 1-1,text,true,,1830,836,1,1,https://urun.n11.com/component/render/customizedProductPriceWrapperArea?productId=462567369&hasBundleBadge=false,72,0,0
+1642945151293,24,https://urun.n11.com/cart/generateAnonymousShoppingCartCookie,200,,n11 1-1,,true,,455,809,1,1,https://urun.n11.com/cart/generateAnonymousShoppingCartCookie,24,0,0
+1642945151318,58,htttps://urun.n11.com/sepet/ekle,200,,n11 1-1,text,true,,965,1021,1,1,https://urun.n11.com/sepet/ekle,58,0,0
+1642945151687,1090,Product Page HTTP Request_Kazak3,200,OK,n11 1-1,text,true,,78568,669,1,1,https://urun.n11.com/kadin-kazak/giybi-kadife-dokulu-basic-kazak-yesil-P509398562,33,0,0
+1642945152780,168,Add Kazak3 Product To Cart,200,"Number of samples in transaction : 4, number of failing samples : 0",n11 1-1,,true,,4063,3378,1,1,null,0,0,0
+1642945152780,24,https://urun.n11.com/hesabim/hesap-bilgileri,200,,n11 1-1,text,true,,873,698,1,1,https://urun.n11.com/hesabim/hesap-bilgileri,24,0,0
+1642945152804,63,https://urun.n11.com/component/render/customizedProductPriceWrapperArea,200,,n11 1-1,text,true,,1829,836,1,1,https://urun.n11.com/component/render/customizedProductPriceWrapperArea?productId=509398562&hasBundleBadge=false,63,0,0
+1642945152868,19,https://urun.n11.com/cart/generateAnonymousShoppingCartCookie,200,,n11 1-1,,true,,387,809,1,1,https://urun.n11.com/cart/generateAnonymousShoppingCartCookie,19,0,0
+1642945152889,59,htttps://urun.n11.com/sepet/ekle,200,,n11 1-1,text,true,,974,1035,1,1,https://urun.n11.com/sepet/ekle,59,0,0
+1642945153262,45,Product Page HTTP Request_Kazak4,200,OK,n11 1-1,text,true,,74721,684,1,1,https://urun.n11.com/kadin-kazak/giybi-orgu-desen-dugmeli-kisa-triko-hirka-kahverengi-P509656083,21,0,0
+1642945153309,173,Add Kazak4 Product To Cart,200,"Number of samples in transaction : 4, number of failing samples : 0",n11 1-1,,true,,4147,3393,1,1,null,0,0,0
+1642945153309,23,https://urun.n11.com/hesabim/hesap-bilgileri,200,,n11 1-1,text,true,,873,698,1,1,https://urun.n11.com/hesabim/hesap-bilgileri,23,0,0
+1642945153332,65,https://urun.n11.com/component/render/customizedProductPriceWrapperArea,200,,n11 1-1,text,true,,1830,836,1,1,https://urun.n11.com/component/render/customizedProductPriceWrapperArea?productId=509656083&hasBundleBadge=false,65,0,0
+1642945153397,18,https://urun.n11.com/cart/generateAnonymousShoppingCartCookie,200,,n11 1-1,,true,,387,809,1,1,https://urun.n11.com/cart/generateAnonymousShoppingCartCookie,18,0,0
+1642945153417,65,htttps://urun.n11.com/sepet/ekle,200,,n11 1-1,text,true,,1057,1050,1,1,https://urun.n11.com/sepet/ekle,65,0,0
+1642945153798,70,Product Page HTTP Request_Kazak5,200,OK,n11 1-1,text,true,,98561,677,1,1,https://urun.n11.com/kadin-kazak/fullamoda-sac-orgulu-balikci-yaka-triko-kazak-P512975005,23,0,0
+1642945153870,118,Add Kazak5 Product To Cart,200,"Number of samples in transaction : 3, number of failing samples : 0",n11 1-1,,true,,3092,2343,1,1,null,0,0,0
+1642945153870,24,https://urun.n11.com/hesabim/hesap-bilgileri,200,,n11 1-1,text,true,,873,698,1,1,https://urun.n11.com/hesabim/hesap-bilgileri,24,0,0
+1642945153894,73,https://urun.n11.com/component/render/customizedProductPriceWrapperArea,200,,n11 1-1,text,true,,1832,836,1,1,https://urun.n11.com/component/render/customizedProductPriceWrapperArea?productId=512975005&hasBundleBadge=false,72,0,0
+1642945153967,21,https://urun.n11.com/cart/generateAnonymousShoppingCartCookie,200,,n11 1-1,,true,,387,809,1,1,https://urun.n11.com/cart/generateAnonymousShoppingCartCookie,21,0,0
+1642945154296,88,Product Page HTTP Request_Kazak6,200,OK,n11 1-1,text,true,,87641,656,1,1,https://urun.n11.com/kadin-kazak/lela-bayan-kazak-4615053-P462467019,22,0,0
+1642945154386,162,Add Kazak6 Product To Cart,200,"Number of samples in transaction : 4, number of failing samples : 0",n11 1-1,,true,,4054,3364,1,1,null,0,0,0
+1642945154386,26,https://urun.n11.com/hesabim/hesap-bilgileri,200,,n11 1-1,text,true,,873,698,1,1,https://urun.n11.com/hesabim/hesap-bilgileri,26,0,0
+1642945154413,52,https://urun.n11.com/component/render/customizedProductPriceWrapperArea,200,,n11 1-1,text,true,,1829,836,1,1,https://urun.n11.com/component/render/customizedProductPriceWrapperArea?productId=462467019&hasBundleBadge=false,52,0,0
+1642945154466,21,https://urun.n11.com/cart/generateAnonymousShoppingCartCookie,200,,n11 1-1,,true,,387,809,1,1,https://urun.n11.com/cart/generateAnonymousShoppingCartCookie,21,0,0
+1642945154488,60,htttps://urun.n11.com/sepet/ekle,200,,n11 1-1,text,true,,965,1021,1,1,https://urun.n11.com/sepet/ekle,60,0,0
+1642945154858,1084,Product Page HTTP Request_Kazak7,200,OK,n11 1-1,text,true,,82213,667,1,1,https://urun.n11.com/kadin-kazak/kadin-gri-selanik-salas-triko-kazak-P510675671,23,0,0
+1642945155944,186,Add Kazak7 Product To Cart,200,"Number of samples in transaction : 4, number of failing samples : 0",n11 1-1,,true,,4057,3376,1,1,null,0,0,0
+1642945155944,26,https://urun.n11.com/hesabim/hesap-bilgileri,200,,n11 1-1,text,true,,873,698,1,1,https://urun.n11.com/hesabim/hesap-bilgileri,26,0,0
+1642945155970,76,https://urun.n11.com/component/render/customizedProductPriceWrapperArea,200,,n11 1-1,text,true,,1828,836,1,1,https://urun.n11.com/component/render/customizedProductPriceWrapperArea?productId=510675671&hasBundleBadge=false,76,0,0
+1642945156046,24,https://urun.n11.com/cart/generateAnonymousShoppingCartCookie,200,,n11 1-1,,true,,387,809,1,1,https://urun.n11.com/cart/generateAnonymousShoppingCartCookie,24,0,0
+1642945156071,59,htttps://urun.n11.com/sepet/ekle,200,,n11 1-1,text,true,,969,1033,1,1,https://urun.n11.com/sepet/ekle,59,0,0
+1642945156435,50,Product Page HTTP Request_Kazak8,200,OK,n11 1-1,text,true,,80753,676,1,1,https://urun.n11.com/kadin-kazak/retrobird-blok-renkli-kazak-kadin-cok-renkli-P519382027,23,0,0
+1642945156487,134,Add Kazak8 Product To Cart,200,"Number of samples in transaction : 3, number of failing samples : 0",n11 1-1,,true,,3092,2343,1,1,null,0,0,0
+1642945156487,24,https://urun.n11.com/hesabim/hesap-bilgileri,200,,n11 1-1,text,true,,873,698,1,1,https://urun.n11.com/hesabim/hesap-bilgileri,24,0,0
+1642945156512,89,https://urun.n11.com/component/render/customizedProductPriceWrapperArea,200,,n11 1-1,text,true,,1832,836,1,1,https://urun.n11.com/component/render/customizedProductPriceWrapperArea?productId=519382027&hasBundleBadge=false,89,0,0
+1642945156602,19,https://urun.n11.com/cart/generateAnonymousShoppingCartCookie,200,,n11 1-1,,true,,387,809,1,1,https://urun.n11.com/cart/generateAnonymousShoppingCartCookie,19,0,0
+1642945156933,1488,Product Page HTTP Request_Kazak9,200,OK,n11 1-1,text,true,,90912,656,1,1,https://urun.n11.com/kadin-kazak/lela-bayan-kazak-4614993-P462466788,23,0,0
+1642945158423,166,Add Kazak9 Product To Cart,200,"Number of samples in transaction : 4, number of failing samples : 0",n11 1-1,,true,,4114,3364,1,1,null,0,0,0
+1642945158423,25,https://urun.n11.com/hesabim/hesap-bilgileri,200,,n11 1-1,text,true,,941,698,1,1,https://urun.n11.com/hesabim/hesap-bilgileri,25,0,0
+1642945158448,58,https://urun.n11.com/component/render/customizedProductPriceWrapperArea,200,,n11 1-1,text,true,,1821,836,1,1,https://urun.n11.com/component/render/customizedProductPriceWrapperArea?productId=462466788&hasBundleBadge=false,58,0,0
+1642945158507,21,https://urun.n11.com/cart/generateAnonymousShoppingCartCookie,200,,n11 1-1,,true,,387,809,1,1,https://urun.n11.com/cart/generateAnonymousShoppingCartCookie,21,0,0
+1642945158530,59,htttps://urun.n11.com/sepet/ekle,200,,n11 1-1,text,true,,965,1021,1,1,https://urun.n11.com/sepet/ekle,59,0,0
+1642945158893,55,Product Page HTTP Request_Kazak10,200,OK,n11 1-1,text,true,,76338,678,1,1,https://urun.n11.com/kadin-kazak/kadin-siyah-selanik-salas-triko-kazak-standart-P522605726,24,0,0
+1642945158951,192,Add Kazak10 Product To Cart,200,"Number of samples in transaction : 4, number of failing samples : 0",n11 1-1,,true,,4204,3387,1,1,null,0,0,0
+1642945158951,26,https://urun.n11.com/hesabim/hesap-bilgileri,200,,n11 1-1,text,true,,873,698,1,1,https://urun.n11.com/hesabim/hesap-bilgileri,26,0,0
+1642945158977,74,https://urun.n11.com/component/render/customizedProductPriceWrapperArea,200,,n11 1-1,text,true,,1828,836,1,1,https://urun.n11.com/component/render/customizedProductPriceWrapperArea?productId=522605726&hasBundleBadge=false,74,0,0
+1642945159052,25,https://urun.n11.com/cart/generateAnonymousShoppingCartCookie,200,,n11 1-1,,true,,455,809,1,1,https://urun.n11.com/cart/generateAnonymousShoppingCartCookie,25,0,0
+1642945159078,65,htttps://urun.n11.com/sepet/ekle,200,,n11 1-1,text,true,,1048,1044,1,1,https://urun.n11.com/sepet/ekle,65,0,0
+1642945159458,2189,Product Page HTTP Request_Kazak11,200,OK,n11 1-1,text,true,,81438,687,1,1,https://urun.n11.com/kadin-kazak/giyim-dunyasi-kadin-fitilli-tam-balikci-yirtmacli-kazak-P508870299,32,0,0
+1642945161650,198,Add Kazak11 Product To Cart,200,"Number of samples in transaction : 4, number of failing samples : 0",n11 1-1,,true,,4175,3396,1,1,null,0,0,0
+1642945161650,25,https://urun.n11.com/hesabim/hesap-bilgileri,200,,n11 1-1,text,true,,873,698,1,1,https://urun.n11.com/hesabim/hesap-bilgileri,25,0,0
+1642945161675,59,https://urun.n11.com/component/render/customizedProductPriceWrapperArea,200,,n11 1-1,text,true,,1839,836,1,1,https://urun.n11.com/component/render/customizedProductPriceWrapperArea?productId=508870299&hasBundleBadge=false,59,0,0
+1642945161734,29,https://urun.n11.com/cart/generateAnonymousShoppingCartCookie,200,,n11 1-1,,true,,387,809,1,1,https://urun.n11.com/cart/generateAnonymousShoppingCartCookie,29,0,0
+1642945161765,83,htttps://urun.n11.com/sepet/ekle,200,,n11 1-1,text,true,,1076,1053,1,1,https://urun.n11.com/sepet/ekle,83,0,0
+1642945162154,47,Product Page HTTP Request_Sweatshirt12,200,OK,n11 1-1,text,true,,69902,689,1,1,https://urun.n11.com/sweatshirt/anime-harajuku-gothic-cool-girl-oversize-unisex-uzun-kollu-P519755951,20,0,0
+1642945162203,123,Add Sweatshirt12 Product To Cart,200,"Number of samples in transaction : 3, number of failing samples : 0",n11 1-1,,true,,3150,2343,1,1,null,0,0,0
+1642945162204,28,https://urun.n11.com/hesabim/hesap-bilgileri,200,,n11 1-1,text,true,,873,698,1,1,https://urun.n11.com/hesabim/hesap-bilgileri,28,0,0
+1642945162233,74,https://urun.n11.com/component/render/customizedProductPriceWrapperArea,200,,n11 1-1,text,true,,1890,836,1,1,https://urun.n11.com/component/render/customizedProductPriceWrapperArea?productId=519755951&hasBundleBadge=false,74,0,0
+1642945162307,19,https://urun.n11.com/cart/generateAnonymousShoppingCartCookie,200,,n11 1-1,,true,,387,809,1,1,https://urun.n11.com/cart/generateAnonymousShoppingCartCookie,19,0,0
+1642945162641,1153,Product Page HTTP Request_Sweatshirt13,200,OK,n11 1-1,text,true,,82504,692,1,1,https://urun.n11.com/sweatshirt/nisanca-uzun-kollu-collage-unisex-turuncu-oversize-sweatshirt-P507041638,32,0,0
+1642945163795,105,Add Sweatshirt13 Product To Cart,200,"Number of samples in transaction : 3, number of failing samples : 0",n11 1-1,,true,,3100,2343,1,1,null,0,0,0
+1642945163796,25,https://urun.n11.com/hesabim/hesap-bilgileri,200,,n11 1-1,text,true,,873,698,1,1,https://urun.n11.com/hesabim/hesap-bilgileri,25,0,0
+1642945163821,59,https://urun.n11.com/component/render/customizedProductPriceWrapperArea,200,,n11 1-1,text,true,,1840,836,1,1,https://urun.n11.com/component/render/customizedProductPriceWrapperArea?productId=507041638&hasBundleBadge=false,59,0,0
+1642945163881,19,https://urun.n11.com/cart/generateAnonymousShoppingCartCookie,200,,n11 1-1,,true,,387,809,1,1,https://urun.n11.com/cart/generateAnonymousShoppingCartCookie,19,0,0
+1642945164210,81,Product Page HTTP Request_Sweatshirt14,200,OK,n11 1-1,text,true,,78969,688,1,1,https://urun.n11.com/sweatshirt/kadin-never-give-up-baskili-kapusonlu-sweatshirt-lacivert-P514907055,21,0,0
+1642945164293,112,Add Sweatshirt14 Product To Cart,200,"Number of samples in transaction : 3, number of failing samples : 0",n11 1-1,,true,,3083,2343,1,1,null,0,0,0
+1642945164293,28,https://urun.n11.com/hesabim/hesap-bilgileri,200,,n11 1-1,text,true,,873,698,1,1,https://urun.n11.com/hesabim/hesap-bilgileri,28,0,0
+1642945164321,61,https://urun.n11.com/component/render/customizedProductPriceWrapperArea,200,,n11 1-1,text,true,,1823,836,1,1,https://urun.n11.com/component/render/customizedProductPriceWrapperArea?productId=514907055&hasBundleBadge=false,61,0,0
+1642945164382,23,https://urun.n11.com/cart/generateAnonymousShoppingCartCookie,200,,n11 1-1,,true,,387,809,1,1,https://urun.n11.com/cart/generateAnonymousShoppingCartCookie,23,0,0
+1642945164723,1059,Product Page HTTP Request_Sweatshirt15,200,OK,n11 1-1,text,true,,70308,658,1,1,https://urun.n11.com/sweatshirt/kirmizi-siyah-cizgili-sweat-P332369241,24,0,0
+1642945165784,196,Add Sweatshirt15 Product To Cart,200,"Number of samples in transaction : 4, number of failing samples : 0",n11 1-1,,true,,4084,3367,1,1,null,0,0,0
+1642945165784,27,https://urun.n11.com/hesabim/hesap-bilgileri,200,,n11 1-1,text,true,,873,698,1,1,https://urun.n11.com/hesabim/hesap-bilgileri,27,0,0
+1642945165811,70,https://urun.n11.com/component/render/customizedProductPriceWrapperArea,200,,n11 1-1,text,true,,1829,836,1,1,https://urun.n11.com/component/render/customizedProductPriceWrapperArea?productId=332369241&hasBundleBadge=false,70,0,0
+1642945165881,19,https://urun.n11.com/cart/generateAnonymousShoppingCartCookie,200,,n11 1-1,,true,,387,809,1,1,https://urun.n11.com/cart/generateAnonymousShoppingCartCookie,19,0,0
+1642945165902,78,htttps://urun.n11.com/sepet/ekle,200,,n11 1-1,text,true,,995,1024,1,1,https://urun.n11.com/sepet/ekle,78,0,0
+1642945165981,1987,Payment Transaction Controller,200,"Number of samples in transaction : 9, number of failing samples : 0",n11 1-1,,true,,317181,11006,1,1,null,0,0,123
+1642945165982,516,https://www.n11.com/sepetim,200,,n11 1-1,text,true,,143894,889,1,1,https://www.n11.com/sepetim,466,0,65
+1642945166498,54,https://www.n11.com/giris-yap?gcht=1&donusurl=/sepetim,200,,n11 1-1,text,true,,22087,920,1,1,https://www.n11.com/giris-yap?gcht=1&donusurl=%2Fsepetim,49,0,0
+1642945166552,585,https://www.n11.com/misafir-sepet,200,,n11 1-1,text,true,,144429,1041,1,1,https://www.n11.com/misafir-sepet,543,0,0
+1642945167138,25,https://www.n11.com/hesabim/hesap-bilgileri,200,,n11 1-1,text,true,,894,998,1,1,https://www.n11.com/hesabim/hesap-bilgileri,25,0,0
+1642945167163,618,https://www.n11.com/adres/misafiremailkayitli,200,,n11 1-1,text,true,,684,1083,1,1,https://www.n11.com/adres/misafiremailkayitli,618,0,0
+1642945167781,27,https://www.n11.com/lookup/districtListOfCity/2534,200,,n11 1-1,text,true,,1626,1163,1,1,https://www.n11.com/lookup/districtListOfCity/2534,27,0,0
+1642945167808,24,https://www.n11.com/lookup/neighborhoodListOfDistrict/22360,200,,n11 1-1,text,true,,2430,1172,1,1,https://www.n11.com/lookup/neighborhoodListOfDistrict/22360,24,0,0
+1642945167833,19,https://www.n11.com/adres/misafirAdresKayit?isShippingAndBillingSame=true,200,OK,n11 1-1,,true,,626,1620,1,1,https://www.n11.com/adres/misafirAdresKayit?isShippingAndBillingSame=true&shippingAddress.neighborhoodId=40664&shippingAddress.invoiceType=INDIVIDUAL&shippingAddress.districtId=22360&guestEmail=yasemintest%40gmail.com&shippingAddress.tcId=63360767570&addressId=&token=zDZVOrqJkTsrywwpaaUDzmicoaijAx&shippingAddress.gsm=05313641570&shippingAddress.cityId=2534&countryCode=TR&shippingAddress.address=ayazaga+mahallesi+buyukudere+caddesi&shippingAddress.fullName=%24%7Byasemin+ceven%7D&shippingAddress.title=ev,18,0,0
+1642945167877,91,https://www.n11.com/odemeye-gec,200,,n11 1-1,text,true,,511,2120,1,1,https://www.n11.com/odemeye-gec,91,0,58
