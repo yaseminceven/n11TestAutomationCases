@@ -1,9 +1,0 @@
-tasks\CheckNumOfCampaigns.class
-tasks\ClickCategory.class
-questions\CheckDriver.class
-pages\N11CampaignsMainPage.class
-tasks\NavigateTo.class
-tasks\WriteURLsExcel.class
-runners\CucumberRunner.class
-stepdefinitions\CampaignsStepDefinitions.class
-pages\CampaignPage.class
